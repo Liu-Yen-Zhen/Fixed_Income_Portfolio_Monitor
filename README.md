@@ -10,7 +10,7 @@ This project is an automated portfolio monitoring tool designed for Fixed Income
 - **Reporting:** Generates visualization for Active Exposure and Risk breakdown.
 
 ## Tech Stack
-- **Python 3.x**
+- **Python 3.11
 - **Pandas / NumPy:** Data manipulation and financial calculations.
 - **Yfinance:** Market data extraction.
 - **Matplotlib:** Data visualization.
