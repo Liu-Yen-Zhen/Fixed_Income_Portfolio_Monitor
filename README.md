@@ -1,4 +1,4 @@
-# Fixed Income Portfolio Monitoring Dashboard (MVP)
+# Fixed Income Portfolio Monitoring Dashboard 
 
 ## Project Overview
 This project is an automated portfolio monitoring tool designed for Fixed Income ETF portfolios. It calculates key risk metrics such as **Duration**, **DV01**, and **Active Weights** against a benchmark, simulating the daily workflow of a portfolio manager.
