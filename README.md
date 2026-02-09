@@ -1,5 +1,4 @@
-# Fixed Income Portfolio Monitoring Dashboard (One-click)
-
+# Fixed Income Portfolio Monitoring Dashboard 
 A one-click, notebook-based monitoring workflow for a fixed income portfolio using liquid ETFs as implementation vehicles.  
 It produces a **3-page monitoring pack (PDF)** plus exported **CSV/PNG outputs**, covering:  
 **(1) daily as-of snapshot**, **(2) weekly breach trend & top drivers**, and **(3) rebalance proposal (pre vs post vs constrained)**.
